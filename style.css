@@ -1,0 +1,84 @@
+body {
+    font-family: sans-serif;
+}
+header a{
+background-color:blue;
+color: white;
+
+
+}
+header{
+background-color: blue;
+color:white;
+border: 10px solid blue;
+border-radius: 30px;
+
+
+}
+h1{
+    color: blue;
+   text-align: center; 
+    
+}
+footer p{
+background-color: blue;
+padding: 5px;
+color: white;
+
+}
+nav a{
+text-decoration: none;
+border-radius: 10px;
+background-color: blue;
+color: white;
+margin:40px;
+padding:5px;
+
+
+
+
+}
+.pesun{
+background-color: white;
+color:blue;
+
+}
+.ppp{
+background-color: blue;
+color: white;
+border-radius: 7px;
+
+
+
+}
+.aaa{
+background-color: blue;
+color: white;
+border-radius: 7px;
+}
+.ddd{
+
+
+    background-color: blue;
+    color: white;
+    border-radius: 7px;
+}
+h2{
+
+    color: blue;
+
+}
+.ooo{
+
+    border:2px solid blue;
+    padding: 5px;
+}
+.lll{
+border: 2px solid blue;
+padding: 5px;
+
+}
+nav{
+
+    margin: 20px;
+}
